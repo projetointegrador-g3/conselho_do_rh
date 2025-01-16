@@ -18,7 +18,7 @@ import { ColaboradorModule } from './colaboradores/colaboradores.module';
       synchronize: true,
       logging: true,
     }),
-    ColaboradorModule,
+    ColaboradorModule
   ],
   controllers: [],
   providers: [],
