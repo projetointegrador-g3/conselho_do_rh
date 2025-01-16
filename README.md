@@ -96,7 +96,7 @@ export class Colaborador{
 Adicione a imagem do Diagrama
 
 <div align="center">
-    <img src="imagem" title="source: imgur.com" />
+    <img src="assets/tb_colaboradores.png" title="DER" />
 </div>
 
 
